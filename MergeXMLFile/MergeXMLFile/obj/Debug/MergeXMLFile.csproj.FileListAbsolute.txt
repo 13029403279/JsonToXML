@@ -1,0 +1,15 @@
+C:\Users\JJiao\Desktop\MergeXMLFile\MergeXMLFile\bin\Debug\MergeXMLFile.exe.config
+C:\Users\JJiao\Desktop\MergeXMLFile\MergeXMLFile\bin\Debug\MergeXMLFile.exe
+C:\Users\JJiao\Desktop\MergeXMLFile\MergeXMLFile\bin\Debug\MergeXMLFile.pdb
+C:\Users\JJiao\Desktop\MergeXMLFile\MergeXMLFile\obj\Debug\MainWindow.g.cs
+C:\Users\JJiao\Desktop\MergeXMLFile\MergeXMLFile\obj\Debug\App.g.cs
+C:\Users\JJiao\Desktop\MergeXMLFile\MergeXMLFile\obj\Debug\MergeXMLFile_MarkupCompile.cache
+C:\Users\JJiao\Desktop\MergeXMLFile\MergeXMLFile\obj\Debug\MergeXMLFile_MarkupCompile.lref
+C:\Users\JJiao\Desktop\MergeXMLFile\MergeXMLFile\obj\Debug\MainWindow.baml
+C:\Users\JJiao\Desktop\MergeXMLFile\MergeXMLFile\obj\Debug\MergeXMLFile.g.resources
+C:\Users\JJiao\Desktop\MergeXMLFile\MergeXMLFile\obj\Debug\MergeXMLFile.Properties.Resources.resources
+C:\Users\JJiao\Desktop\MergeXMLFile\MergeXMLFile\obj\Debug\MergeXMLFile.csproj.GenerateResource.cache
+C:\Users\JJiao\Desktop\MergeXMLFile\MergeXMLFile\obj\Debug\MergeXMLFile.csproj.CoreCompileInputs.cache
+C:\Users\JJiao\Desktop\MergeXMLFile\MergeXMLFile\obj\Debug\MergeXMLFile.exe
+C:\Users\JJiao\Desktop\MergeXMLFile\MergeXMLFile\obj\Debug\MergeXMLFile.pdb
+C:\Users\JJiao\Desktop\MergeXMLFile\MergeXMLFile\obj\Debug\MergeXMLFile.csprojAssemblyReference.cache
