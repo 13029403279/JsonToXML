@@ -1,0 +1,11 @@
+C:\Users\JJiao\Desktop\ParseJson\ParseJson\bin\Debug\netcoreapp2.1\ParseJson.deps.json
+C:\Users\JJiao\Desktop\ParseJson\ParseJson\bin\Debug\netcoreapp2.1\ParseJson.runtimeconfig.json
+C:\Users\JJiao\Desktop\ParseJson\ParseJson\bin\Debug\netcoreapp2.1\ParseJson.runtimeconfig.dev.json
+C:\Users\JJiao\Desktop\ParseJson\ParseJson\bin\Debug\netcoreapp2.1\ParseJson.dll
+C:\Users\JJiao\Desktop\ParseJson\ParseJson\bin\Debug\netcoreapp2.1\ParseJson.pdb
+C:\Users\JJiao\Desktop\ParseJson\ParseJson\obj\Debug\netcoreapp2.1\ParseJson.csproj.CoreCompileInputs.cache
+C:\Users\JJiao\Desktop\ParseJson\ParseJson\obj\Debug\netcoreapp2.1\ParseJson.AssemblyInfoInputs.cache
+C:\Users\JJiao\Desktop\ParseJson\ParseJson\obj\Debug\netcoreapp2.1\ParseJson.AssemblyInfo.cs
+C:\Users\JJiao\Desktop\ParseJson\ParseJson\obj\Debug\netcoreapp2.1\ParseJson.dll
+C:\Users\JJiao\Desktop\ParseJson\ParseJson\obj\Debug\netcoreapp2.1\ParseJson.pdb
+C:\Users\JJiao\Desktop\ParseJson\ParseJson\obj\Debug\netcoreapp2.1\ParseJson.csprojAssemblyReference.cache
